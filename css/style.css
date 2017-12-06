@@ -1,0 +1,32 @@
+.gray-background{
+	background: #EEE;
+}
+.margin-top{
+	margin-top: 15px;
+}
+.margin-bottom{
+	margin-bottom: 15px;
+}
+.padding{
+	padding: 10px;
+}
+.full-width{
+	width: 100%;
+}
+hr{
+	border-color: #DDD;
+}
+.icon-bg{
+	background-color: #A00;
+	color: #FFF;
+	width: 30px;
+	text-align: center;
+	height: 30px;
+	line-height: 30px;
+	cursor: pointer;
+	border-radius: 50%;
+}
+footer#page_footer{
+	padding: 10px;
+	background-color: #CCC;
+}
